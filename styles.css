@@ -23,3 +23,15 @@ a:hover {
     font-size: 14px;
   }
 }
+.completed a {
+  text-decoration: line-through;
+  color: #666;
+}
+
+#complete-grade {
+  margin-top: 1rem;
+}
+
+.grade-nav {
+  margin-top: 1rem;
+}
